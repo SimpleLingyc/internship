@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CourtLaw">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CourtLaw_jar/CourtLaw.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
